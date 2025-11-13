@@ -6,7 +6,7 @@
 
 <img width="673" height="450" alt="image" src="https://github.com/user-attachments/assets/c8710ad5-fec5-4147-b5ad-866144c6466b" />
 
-* Login screen for creation of SAP
+### Login screen for creation of SAP
 
 3. Evaluate the order form. Each order form will be different. Look for the PO Number, the Ship to Address, and the Delivery Date. 
 
