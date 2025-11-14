@@ -1,4 +1,4 @@
-# SOP Philly
+# Manual Philly Sheet Orders
 
 1. Go to Maola Philly Orders group and find new order email(s). Open up order form.
 
@@ -91,3 +91,8 @@
 <img width="1403" height="68" alt="image" src="https://github.com/user-attachments/assets/02bccb5e-6b35-411f-a128-6b6982e99c08" />
 
 <img width="1131" height="65" alt="image" src="https://github.com/user-attachments/assets/93beb42d-050f-4cfd-a266-9efc6b1f4b7c" />
+
+* Make Philly Compliance tab have same format
+
+18.	Go to the email that had the order form(s) and reply saying that you’ve received the order and processed it. 
+
