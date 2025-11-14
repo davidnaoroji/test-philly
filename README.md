@@ -16,5 +16,8 @@
 
 4. In the Philly sheet, go to Philly Details, enter the date that the order form came in Order Date. Go to the Cust List sheet and look for the DC Name associated with the Ship To Address. (In this case, the DC Name is Ingles-1).
 
+<img width="975" height="461" alt="image" src="https://github.com/user-attachments/assets/9d94691e-d26e-4cc0-9caa-9300d97b2445" />
+
+* Phildephia Orders Excel Sheet - Shows different vendor and distinctions between vendors and orders
 
 
